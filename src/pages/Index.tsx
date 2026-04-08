@@ -14,7 +14,7 @@ const Index = () => {
               Research Archive
             </span>
           </div>
-          <h1 className="font-serif text-3xl md:text-4xl font-bold text-foreground mb-3">
+          <h1 className="font-serif text-3xl md:text-4xl font-bold text-blue-600 mb-3">
             Research Paper Archive
           </h1>
           <p className="text-muted-foreground max-w-lg mx-auto leading-relaxed">

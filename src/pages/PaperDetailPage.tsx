@@ -141,7 +141,7 @@ const PaperDetailPage = () => {
 
       {/* Footer */}
       <footer className="border-t border-border py-6">
-        <div className="container max-w-3xl flex items-center gap-2 text-xs text-muted-foreground">
+        <div className="container max-w-3xl flex items-center gap-2 text-xs text-blue-600">
           <BookOpen className="h-3.5 w-3.5" />
           Research Paper Archive
         </div>
